@@ -12,14 +12,16 @@ An academic heartbeat-test electronics project containing a Proteus design, PCB 
 - PCB photograph and video documenting the hardware project.
 - Engineering report for the design and testing context.
 
+[View the original PCB demonstration](PCB%20Video.mp4) · [Read the project report](Project%20Report.pdf)
+
 ## Project files
 
 | File | Purpose |
 | --- | --- |
-| [Hearbeat Test.pdsprj](Hearbeat%20Test.pdsprj) | Original source or design file |
-| [PCB.jpg](PCB.jpg) | Original source or design file |
-| [PCB Video.mp4](PCB%20Video.mp4) | Original source or design file |
-| [Project Report.pdf](Project%20Report.pdf) | Original source or design file |
+| [Hearbeat Test.pdsprj](Hearbeat%20Test.pdsprj) | Proteus project |
+| [PCB.jpg](PCB.jpg) | Original project photograph |
+| [PCB Video.mp4](PCB%20Video.mp4) | Original demonstration video |
+| [Project Report.pdf](Project%20Report.pdf) | Engineering report (PDF) |
 
 ## How to explore or reproduce
 
